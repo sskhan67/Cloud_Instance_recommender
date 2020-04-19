@@ -1,0 +1,21 @@
+﻿Rating,Cost(per hour USD),Cloud Instances
+2.666666667,0.0928,t2.large
+1.666666667,0.0832,B2ms
+3,0.095,N1s2
+2,0.015,Lin.G
+3,0.1,c4.large
+2.666666667,0.085,F2s
+3.333333333,0.0709,N1cc
+2,0.045,Lin.C
+3,0.133,r4.large
+3,0.126,E2s
+3,0.1184,N1M2
+2,0.09,Lin.M
+4,0.085,c5.large
+3,0.1,m4.large
+4,0.0464,t2.medium
+3,0.023,t2.small
+4,0.0752,t3a.large
+4,0.0376,t3a.medium
+4,0.0188,t3a.small
+3,0.0208,t3.small
